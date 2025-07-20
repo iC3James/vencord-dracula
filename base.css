@@ -1,0 +1,29 @@
+:root {
+
+/**
+ * Dracula Theme Variables for Elements, Colours and Out of Spec.
+**/
+    /* Elements */
+    --dracula-background: #282a36 !important;
+    --dracula-foreground: #f8f8f2 !important;
+    --dracula-current-line: #44475a !important;
+    --dracula-comment: #6272a4 !important;
+
+    /* Colours */
+    --dracula-red: #ff5555 !important;
+    --dracula-orange: #ffb86c !important;
+    --dracula-yellow: #f1fa8c !important;
+    --dracula-green: #50fa7b !important;
+    --dracula-purple: #bd93f9 !important;
+    --dracula-cyan: #8be9fd !important;
+    --dracula-pink: #ff79c6 !important;
+    --dracula-white: #f8f8f8 !important;
+
+    /* Additional Variables for Customization - Out of Spec */
+    --dracula-background-lighter: #424450 !important;
+    --dracula-background-alt: #343746 !important;
+    --dracula-tab-drop-background: #44475a70 !important;
+    --dracula-line-highlight: #44475a !important;
+    --dracula-non-text: #ffffff !important;
+    --dracula-selection: #44475a !important;
+}

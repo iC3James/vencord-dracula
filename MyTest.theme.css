@@ -1,10 +1,5 @@
 /**
- * @name Dracula Official
- * @author Dracula
- * @authorId 971847378011308102
- * @version 1.0.0
- * @description Dark theme for BetterDiscord
- * @source https://github.com/Dracula/BetterDiscord
+ * @what Refactor of Dracula BD Discord Theme for Updated UI
 **/
 
-@import url("https://dracula.github.io/betterdiscord/base.css");
+@import url("https://github.com/iC3James/vencord-dracula/raw/refs/heads/main/base.css");
