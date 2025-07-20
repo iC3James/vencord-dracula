@@ -4,7 +4,8 @@
  * Dracula Theme Variables for Elements, Colours and Out of Spec.
 **/
     /* Elements */
-    --dracula-background: #282a36 !important;
+    /*dracula-background: #282a36 !important;*/
+    --dracula-background: #eb0edc !important;
     --dracula-foreground: #f8f8f2 !important;
     --dracula-current-line: #44475a !important;
     --dracula-comment: #6272a4 !important;
@@ -26,4 +27,7 @@
     --dracula-line-highlight: #44475a !important;
     --dracula-non-text: #ffffff !important;
     --dracula-selection: #44475a !important;
+
+
+    --background-primary: var(--dracula-background) !important;
 }
